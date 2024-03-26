@@ -1,0 +1,16 @@
+{
+  "name": "hangmanproject",
+  "version": "1.0.0",
+  "description": "hangman project for CanCode Class",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shaniyah Jones",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
